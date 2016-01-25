@@ -1,0 +1,22 @@
+{
+  "name": "Cat Clicker",
+  "homepage": "https://github.com/ITesic/udacity",
+  "authors": [
+    "itesic <ilija.tesic@gmail.com>"
+  ],
+  "description": "Cat Clicker application",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
